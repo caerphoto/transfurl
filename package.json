@@ -1,0 +1,15 @@
+{
+  "name": "transfurl",
+  "version": "1.0.0",
+  "description": "Listens for URL requests from a remote host and opens them locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Farrell",
+  "license": "ISC",
+  "dependencies": {
+      "open": "0.0.x",
+      "validator": "3.38.x"
+  }
+}
