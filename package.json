@@ -2,7 +2,7 @@
   "name": "transfurl",
   "version": "1.0.0",
   "description": "Listens for URL requests from a remote host and opens them locally.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
