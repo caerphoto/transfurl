@@ -3,10 +3,10 @@
 ## Installation
 
 Since the server part is a Node app, you'll need [Node.js](https://nodejs.org)
-on the target compouter, to listen for incoming URL requests.
+on the target computer, to listen for incoming URL requests.
 
-Once you have the repo cloned, run `npm install` to install the two dependencies
-(*open* for doing the open-in-browser part, and *validator* for making sure the
+Clone this repo, and run `npm install` to install the two dependencies (`open`
+for doing the open-in-browser part, and `validator` for making sure the
 requested URL is valid).
 
 # Usage
